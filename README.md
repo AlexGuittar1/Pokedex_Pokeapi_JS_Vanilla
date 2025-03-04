@@ -39,8 +39,7 @@ agregar favoritos y filtrar por tipo. Además, los usuarios pueden exportar sus 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/pokedex.git
-
+   git clone https://github.com/AlexGuittar1/Pokedex_Pokeapi_JS_Vanilla.git
 3. Abre el archivo `index.html` en tu navegador preferido.
 
 ## Cómo Usar
